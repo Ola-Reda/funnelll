@@ -1,0 +1,46 @@
+main {
+    text-align: center;
+    color: white !important;
+}
+main .box {
+    padding-top: 60px;
+}
+main h1{
+    font-size: 76px; 
+    margin-bottom: 16px;
+}
+main span{
+    color: #74c633 !important; 
+}
+main .btn1 {
+    color: #fff !important;
+    background-color: #61a22e !important;
+    border: 1px solid #74C633 !important;
+    margin-right: 10px;
+    transition: all .3s ease-in-out;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+main .btn1:hover{
+    color: #61a22e !important;
+    background-color: #fff !important;
+    font-weight: bold;
+}
+main .btn2{
+    color: #fff !important;
+    background-color: transparent !important;
+    border: 1px solid white !important;
+    margin-right: 10px;
+    transition: all .3s ease-in-out;
+    padding: 12px 25px;
+    border-radius: 4px;
+}
+main .btn2:hover{
+    color: black !important;
+    background-color: #fff !important;
+    font-weight: bold;
+}
+main .para{
+    margin-top: 20px;
+}

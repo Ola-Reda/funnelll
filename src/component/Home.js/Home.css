@@ -1,0 +1,113 @@
+.founders{
+    background-color: #1E272B;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.founders h5{
+    color: white;
+    margin-bottom: 35px;
+}
+.founders img{
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.business, .customer{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    color: white;
+}
+.business .text, .customer .text{
+    text-align: center;
+}
+.business .box, .customer .box {
+    line-height: 1.9;
+}
+.business span, .customer span{
+    color: #74C633;
+    font-weight: bold;
+    font-size: 20px;
+}
+.business .text h2, .customer .text h2{
+    font-size: 46px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.business .text p, .customer .text p{
+    font-size: 19px;
+}
+.business img{
+    max-width: 90%;
+    border-radius: 10px; 
+}
+.customer img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.review .box{
+    background: linear-gradient(261.71deg, #485a63 13.92%, #2c3c44 84.19%);
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+.review img {
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.review span{
+    font-size: 19px;
+}
+.review a {
+    color: #74C633;
+}
+.review a:hover {
+    color: #74C633;
+    font-weight: bold;
+    text-decoration: none;
+}
+.review p {
+    font-size: 32px;
+    font-weight: 200;
+    margin-top: 15px;
+}
+.budget{
+    color: white;
+}
+.budget h2{
+    font-size: 68px;
+}
+.budget .box p{
+    font-size: 19px;
+}
+.budget .btn1 {
+    color: #fff !important;
+    background-color: #61a22e !important;
+    border: 1px solid #74C633 !important;
+    margin-right: 10px;
+    transition: all .3s ease-in-out;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+.budget .btn1:hover{
+    color: #61a22e !important;
+    background-color: #fff !important;
+    font-weight: bold;
+}
+.budget .btn2{
+    color: #fff !important;
+    background-color: transparent !important;
+    border: 1px solid white !important;
+    margin-right: 10px;
+    transition: all .3s ease-in-out;
+    padding: 12px 25px;
+    border-radius: 4px;
+}
+.budget .btn2:hover{
+    color: black !important;
+    background-color: #fff !important;
+    font-weight: bold;
+}
